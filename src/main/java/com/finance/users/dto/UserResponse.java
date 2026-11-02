@@ -1,7 +1,7 @@
-package com.finanzas.users.dto;
+package com.finance.users.dto;
 
-import com.finanzas.users.entity.Role;
-import com.finanzas.users.entity.User;
+import com.finance.users.entity.Role;
+import com.finance.users.entity.User;
 
 import java.time.Instant;
 import java.util.Set;

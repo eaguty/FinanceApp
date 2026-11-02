@@ -1,4 +1,4 @@
-package com.finanzas.users.exception;
+package com.finance.users.exception;
 
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;

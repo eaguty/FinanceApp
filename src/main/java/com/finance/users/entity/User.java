@@ -1,4 +1,4 @@
-package com.finanzas.users.entity;
+package com.finance.users.entity;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.JdbcTypeCode;

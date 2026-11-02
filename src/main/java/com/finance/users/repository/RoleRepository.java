@@ -1,6 +1,6 @@
-package com.finanzas.users.repository;
+package com.finance.users.repository;
 
-import com.finanzas.users.entity.Role;
+import com.finance.users.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Collection;

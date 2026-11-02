@@ -1,14 +1,14 @@
-package com.finanzas.users.service;
+package com.finance.users.service;
 
-import com.finanzas.users.dto.CreateUserRequest;
-import com.finanzas.users.dto.UpdateUserRequest;
-import com.finanzas.users.dto.UserResponse;
-import com.finanzas.users.entity.Role;
-import com.finanzas.users.entity.User;
-import com.finanzas.users.exception.DuplicateResourceException;
-import com.finanzas.users.exception.ResourceNotFoundException;
-import com.finanzas.users.repository.RoleRepository;
-import com.finanzas.users.repository.UserRepository;
+import com.finance.users.dto.CreateUserRequest;
+import com.finance.users.dto.UpdateUserRequest;
+import com.finance.users.dto.UserResponse;
+import com.finance.users.entity.Role;
+import com.finance.users.entity.User;
+import com.finance.users.exception.DuplicateResourceException;
+import com.finance.users.exception.ResourceNotFoundException;
+import com.finance.users.repository.RoleRepository;
+import com.finance.users.repository.UserRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;

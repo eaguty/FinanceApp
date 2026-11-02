@@ -1,4 +1,4 @@
-package com.finanzas.users.exception;
+package com.finance.users.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

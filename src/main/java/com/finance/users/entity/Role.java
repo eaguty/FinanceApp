@@ -1,4 +1,4 @@
-package com.finanzas.users.entity;
+package com.finance.users.entity;
 
 import jakarta.persistence.*;
 
@@ -6,7 +6,7 @@ import java.util.Objects;
 
 @Entity
 @Table(name = "roles")
-public class String {
+public class Role {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

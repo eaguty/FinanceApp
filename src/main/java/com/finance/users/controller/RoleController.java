@@ -1,8 +1,8 @@
-package com.finanzas.users.controller;
+package com.finance.users.controller;
 
-import com.finanzas.users.dto.CreateRoleRequest;
-import com.finanzas.users.dto.RoleResponse;
-import com.finanzas.users.service.RoleService;
+import com.finance.users.dto.CreateRoleRequest;
+import com.finance.users.dto.RoleResponse;
+import com.finance.users.service.RoleService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

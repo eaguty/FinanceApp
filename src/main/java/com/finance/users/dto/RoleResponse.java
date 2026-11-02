@@ -1,6 +1,6 @@
-package com.finanzas.users.dto;
+package com.finance.users.dto;
 
-import com.finanzas.users.entity.Role;
+import com.finance.users.entity.Role;
 
 public record RoleResponse(Long id, String name, String description) {
 

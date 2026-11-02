@@ -1,10 +1,10 @@
-package com.finanzas.users.service;
+package com.finance.users.service;
 
-import com.finanzas.users.dto.CreateRoleRequest;
-import com.finanzas.users.dto.RoleResponse;
-import com.finanzas.users.entity.Role;
-import com.finanzas.users.exception.DuplicateResourceException;
-import com.finanzas.users.repository.RoleRepository;
+import com.finance.users.dto.CreateRoleRequest;
+import com.finance.users.dto.RoleResponse;
+import com.finance.users.entity.Role;
+import com.finance.users.exception.DuplicateResourceException;
+import com.finance.users.repository.RoleRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

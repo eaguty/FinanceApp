@@ -1,6 +1,6 @@
-package com.finanzas.users.repository;
+package com.finance.users.repository;
 
-import com.finanzas.users.entity.User;
+import com.finance.users.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
